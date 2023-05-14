@@ -1,0 +1,27 @@
+img {
+ height: 150px;
+}
+
+.main {
+ font-size: 20px;
+}
+
+#element-id {
+ font-weight: bold;
+}
+
+parent-element child-element {
+ list-style: square;
+}
+
+element.class {
+ color: gray;
+}
+
+.class-name {
+ color: SeaGreen;
+}
+
+h1 , h2 , p, li {
+  font-family: Helvetica;
+}
